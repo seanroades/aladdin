@@ -1,2 +1,2 @@
 # aladdin
-Aladdin is a software that can create person profiles
+Aladdin is a program that can track foot traffic for economic & health uses using YOLO. 
